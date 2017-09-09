@@ -32,3 +32,13 @@ html {
   font-size: 23px;
   font-weight: bold;
 }
+
+.newyork {
+  background-image: url(file:///C:/cygwin64/home/Aya/jawadsaad.github.io/Broadway/resources/the-flatiron-building.png);
+}
+
+.newyork h2 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
