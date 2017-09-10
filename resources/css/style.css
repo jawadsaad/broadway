@@ -4,7 +4,7 @@ html {
 }
 
 #header {
-  background-image: url(file:///C:/cygwin64/home/Aya/jawadsaad.github.io/Broadway/resources/the-flatiron-building.png);
+  background-image: url(https://raw.githubusercontent.com/jawadsaad/broadway/master/resources/the-flatiron-building.png);
 }
 
 #header h1 {
@@ -34,9 +34,6 @@ html {
 }
 
 .newyork {
-  /*
-  background-image: url(file:///C:/cygwin64/home/Aya/jawadsaad.github.io/Broadway/resources/the-flatiron-building.png);
-  */
   background-image: url(https://raw.githubusercontent.com/jawadsaad/broadway/master/resources/the-flatiron-building.png);
 }
 
