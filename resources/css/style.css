@@ -19,16 +19,16 @@ html {
   color: white;
 }
 
-.process p {
+.main p {
   font-size: 14px;
 }
 
-.process h1 {
+.main h1 {
   font-size: 32px;
   font-weight: bold;
 }
 
-.process h2 {
+.main h2 {
   font-size: 23px;
   font-weight: bold;
 }
@@ -41,4 +41,16 @@ html {
   font-size: 23px;
   font-weight: bold;
   color: white;
+}
+
+.footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+}
+
+.footer a {
+  color: white;
+  font-weight: bold;
 }
